@@ -1,0 +1,15 @@
+
+{
+	"name":"noondaysun/password",
+	"minimum-stability":"dev",
+	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/noondaysun/library_functions"
+        }
+    ],
+	"require": {
+		"noondaysun/library_functions": "*"
+    },
+    "version": "0.0.2"
+}

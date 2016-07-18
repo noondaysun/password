@@ -1,0 +1,30 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "32449a48e716f8d49ab1b6089fda626c",
+    "content-hash": "61643d771ed5e6c7210bd6e11031103e",
+    "packages": [
+        {
+            "name": "noondaysun/library_functions",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/noondaysun/library_functions",
+                "reference": "9b3110a2acca235233b69dfe86278258261a1dce"
+            },
+            "type": "library",
+            "time": "2016-07-14 11:20:17"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
