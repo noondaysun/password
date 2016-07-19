@@ -9,7 +9,8 @@
         }
     ],
 	"require": {
-		"noondaysun/library_functions": "*"
+		"noondaysun/library_functions": "*",
+		"php": "^7.0"
     },
     "version": "0.0.2"
 }

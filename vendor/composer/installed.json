@@ -1,0 +1,15 @@
+[
+    {
+        "name": "noondaysun/library_functions",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/noondaysun/library_functions",
+            "reference": "9b3110a2acca235233b69dfe86278258261a1dce"
+        },
+        "time": "2016-07-14 11:20:17",
+        "type": "library",
+        "installation-source": "source"
+    }
+]

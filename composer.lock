@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "32449a48e716f8d49ab1b6089fda626c",
-    "content-hash": "61643d771ed5e6c7210bd6e11031103e",
+    "hash": "d21c56f12245c3269d265748de8a53d4",
+    "content-hash": "238b8de20f9f0bc9fe16d461eb5d4225",
     "packages": [
         {
             "name": "noondaysun/library_functions",
@@ -25,6 +25,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^7.0"
+    },
     "platform-dev": []
 }
