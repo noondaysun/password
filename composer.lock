@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d21c56f12245c3269d265748de8a53d4",
+    "hash": "8f9912912197ee905c3f43874b0145bf",
     "content-hash": "238b8de20f9f0bc9fe16d461eb5d4225",
     "packages": [
         {
@@ -13,10 +13,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/noondaysun/library_functions",
-                "reference": "9b3110a2acca235233b69dfe86278258261a1dce"
+                "reference": "2f6a99f5e52fc70e00d997232b25647221e8603e"
             },
             "type": "library",
-            "time": "2016-07-14 11:20:17"
+            "time": "2016-09-14 11:14:32"
         }
     ],
     "packages-dev": [],

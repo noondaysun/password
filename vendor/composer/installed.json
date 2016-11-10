@@ -6,9 +6,9 @@
         "source": {
             "type": "git",
             "url": "https://github.com/noondaysun/library_functions",
-            "reference": "9b3110a2acca235233b69dfe86278258261a1dce"
+            "reference": "2f6a99f5e52fc70e00d997232b25647221e8603e"
         },
-        "time": "2016-07-14 11:20:17",
+        "time": "2016-09-14 11:14:32",
         "type": "library",
         "installation-source": "source"
     }
